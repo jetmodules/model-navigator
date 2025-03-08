@@ -1,33 +1,33 @@
 # Model Navigator
 
-El módulo Model Navigator mejora la experiencia de usuario de Odoo proporcionando un botón para abrir vistas relacionadas directamente desde la definición de la vista de formulario. Esta función es particularmente útil para desarrolladores y administradores que frecuentemente navegan entre modelos y vistas de modelos.
+The Model Navigator module enhances the Odoo user experience by providing a button to open related views directly from the form view definition. This feature is particularly useful for developers and administrators who frequently navigate between models and model views.
 
-## Tabla de contenidos
+## Table of contents
 
-- [Instalación](#instalación)
-- [Configuración](#configuración)
-- [Uso](#uso)
-- [Rastreador de errores](#rastreador-de-errores)
-- [Autores](#autores)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Bug Tracker](#bug-tracker)
+- [Authors](#authors)
 
-## Instalación
+## Installation
 
-Solo instale el módulo.
+Only install the module.
 
-## Configuración
+## Configuration
 
-No es necesario configurar.
+Is not necessary to configure.
 
-## Uso
+## Usage
 
-1. Navegue a **Ajustes > Técnico > Estructura de base de datos > Modelos**.
-2. Abra cualquier registro.
-3. Haga clic en el botón "Abrir vista relacionada" para acceder directamente a la vista correspondiente del modelo.
+1. Navigate to **Settings > Technical > Database Structure > Models**.
+2. Open any record.
+3. Click on the "Open Related View" button to directly access the corresponding model's view.
 
-## Rastreador de errores
+## Bug Tracker
 
-Si encuentra un error, por favor contacte a **jetmodules@gmail.com**.
+If you find an error, please contact **jetmodules@gmail.com**.
 
-## Autores
+## Authors
 
 * JetModules <jetmodules@gmail.com>
