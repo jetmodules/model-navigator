@@ -1,0 +1,22 @@
+<odoo>
+    <record id="model_navigator_inherit_view_model_form" model="ir.ui.view">
+        <field name="name">model.navigator.inherit.view.model.form</field>
+        <field name="model">ir.model</field>
+        <field name="inherit_id" ref="base.view_model_form" />
+        <field name="arch" type="xml">
+            <xpath expr="//header" position="inside">
+                <header>
+                    <button name="action_open_related_model_view"
+                        type="object"
+                        string="Open Model View"
+                        class="oe_highlight"
+                        icon="fa-external-link"
+                    />
+                </header>
+            </xpath>
+            <xpath expr="//field[@name='modules']" position="after">
+                <field name="menu_path"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>
