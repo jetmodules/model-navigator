@@ -1,5 +1,5 @@
 # Copyright 2025 JetModules <jetmodules@gmail.com>
-# License AGPL-3.0 (https://www.odoo.com/documentation/16.0/legal/licenses.html#odoo-apps).
+# License AGPL-3 (https://www.odoo.com/documentation/16.0/legal/licenses.html#odoo-apps).
 
 {
     "name": "Model Navigator",
@@ -8,7 +8,7 @@
     "version": "16.0.1.0.0",
     "category": "Tools",
     "author": "JetModules",
-    "license": "AGPL-3.0",
+    "license": "AGPL-3",
     "images": ["static/description/banner.png"],
     "application": False,
     "installable": True,

@@ -1,5 +1,5 @@
 # Copyright 2025 JetModules <jetmodules@gmail.com>
-# License AGPL-3.0 (https://www.odoo.com/documentation/16.0/legal/licenses.html#odoo-apps).
+# License AGPL-3 (https://www.odoo.com/documentation/16.0/legal/licenses.html#odoo-apps).
 
 from odoo import models, _, fields
 from odoo.exceptions import UserError
