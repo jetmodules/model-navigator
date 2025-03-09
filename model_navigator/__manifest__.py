@@ -5,7 +5,7 @@
     "name": "Model Navigator",
     "summary": "ir.model.view redirect",
     "description": "Extends ir.model.view to enable navigation to the views of the related model.",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0.0",
     "category": "Tools",
     "author": "JetModules",
     "license": "AGPL-3",
